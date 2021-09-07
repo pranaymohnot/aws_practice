@@ -1,4 +1,4 @@
-name: my_front
+name: aws_practice
 # action takes place when branch is pushed to main..
 on:
   push:
